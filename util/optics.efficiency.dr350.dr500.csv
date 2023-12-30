@@ -1,0 +1,20 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: nm, datatype: int64}
+# - {name: H-K9LA, datatype: float64}
+# - {name: H-LaK4L, datatype: float64}
+# - {name: H-FK95N, datatype: float64}
+# - {name: VIS, datatype: float64}
+# - {name: Al coating, datatype: float64}
+# - {name: Total, datatype: string}
+# - {name: total, datatype: float64, format: 1.3f}
+# schema: astropy-2.0
+nm H-K9LA H-LaK4L H-FK95N VIS "Al coating" Total total
+400 0.997 0.974 0.996 0.988 0.86 67.34% 0.6734
+500 0.997 0.995 0.998 0.998 0.95 88.46% 0.8845999999999999
+600 0.998 0.997 0.998 0.999 0.95 89.17% 0.8917
+700 0.998 0.997 0.998 0.996 0.92 82.38% 0.8238
+800 0.998 0.998 0.998 0.974 0.85 62.95% 0.6295000000000001
+900 0.998 0.998 0.998 0.936 0.83 49.20% 0.49200000000000005
+1000 0.998 0.998 0.998 0.9 0.85 42.41% 0.4241
